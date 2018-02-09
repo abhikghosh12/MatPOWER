@@ -5,3 +5,4 @@ A load flow study calculates the steady state behavior of a power system. This i
 The power demand in world is keep on rising. So Power system becomes more and more interconnected. A small set of simultaneous failure can propagate through entire system, causing a massive blackout. Therefore providing security against overloading is important. 
 The renewable energy sources (RES) generally produces power which depends on weather conditions and is unpredictable. So it is needed to integrate with Conventional energy sources. The integration of RES with conventional grid network also require intensive study of load flow [1–3]. 
 
+![](https://github.com/abhikghosh12/MatPOWER/blob/master/load%20flow%20grid.jpg)
